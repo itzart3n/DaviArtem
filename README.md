@@ -1,5 +1,5 @@
-#  Olá, bem vindo ao meu espaço📍
-<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+sou+o+Davi+Artem+" alt="Typing SVG" /></a>
+ 
   Futuro empresário, dedicado a criar resoluções para problemas atuais e com sentido real. <br>
  Tenho focado meus estudos em <strong>Admnistração</strong> e <strong>Marketing</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
 </p>
