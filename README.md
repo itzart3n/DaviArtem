@@ -1,32 +1,32 @@
-<h2 align="left">Oi como vai? 👋</h2>
+#  Olá, bem vindo ao meu espaço📍
+<p align="left">
+  Futuro empresário, dedicado a criar resoluções para problemas atuais e com sentido real. <br>
+ Tenho focado meus estudos em <strong>Admnistração</strong> e <strong>Marketing</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
+</p>
 
-###
+## Sobre mim
 
-<p align="left">Me chamo Davi Artem, sou um grande nerd, também adoro música pra dar aquele up no dia, vôlei e jiu-jitsu pra aprender a cair com estilo. Gosto de aprender, errar e crescer. E se quiser jogar alguma coisa estou aqui.</p>
+- 🎓 Cursando Técnico em Admnistração pela Etec Jorge Street
+- 📚 Fazendo diversos cursos livres
+- Alguns hobbies: 🥋 | 🎹 | 🏐 | ♟ | 🎮 | 📖
 
-###
+---
+<p align="left">
+  Vamos nos conectar?
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/daviiartem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:davi3artem@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/933415589173669928" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/daviartem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=davi3artem@gmail.com&tf=cm" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/daviartem" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/daviiartem/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzart3n/itzart3n/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzart3n/itzart3n/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itzart3n/itzart3n/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
